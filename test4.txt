@@ -1,2 +1,3 @@
 both
+main edit
 fork edit
